@@ -1,2 +1,4 @@
 # numpy_tutorial
-This repository contains Jupyter notebook explaining numpy fundamental concepts.
+This repository contains tutorials for numpy library.
+
+Credits: Knowledge Shelf - https://www.youtube.com/knowledgeshelf
